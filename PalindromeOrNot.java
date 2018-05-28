@@ -1,4 +1,6 @@
-//Lists all the words and the number of occurences for each in a data file.
+//Designed for Hadoop's MapReduce
+//This is a program that goes through a large data file and returns the number of palindromes and non-palindromes
+//Program Writtened by Jian An Chiang
 
 import java.io.IOException;
 import java.util.*;
