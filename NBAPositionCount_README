@@ -1,0 +1,13 @@
+NBA_Player_Data Text File Header Format:
+Rk,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FG%,3P,3PA,3P%,2P,2PA,2P%,eFG%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PS/G▼
+
+This Dataset was taken from NBA Data 2015/2016 Stats from AddisonGauss
+
+NBAPositionCount Output File:
+C       89 
+PF      102
+PF-C    1
+PG      95
+SF      92
+SG      96
+SG-SF   1
